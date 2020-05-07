@@ -14,6 +14,9 @@ module.exports = {
   "小程序": {
     leval: 1
   },
+  "机器学习": {
+    leval: 1
+  },
   docker: {
     leval: 1
   },
