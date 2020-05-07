@@ -16,8 +16,8 @@ keys.forEach(key => {
   if(exists(key)) {
     const futureMdPath = path.join(futurePath, key + '.md')
     const pastMdPath = path.join(pastPath, key + '.md')
-    futureContent += '\n#' + fs.readFileSync(futureMdPath).toString()
-    pastContent += '\n#' + fs.readFileSync(pastMdPath).toString()
+    futureContent += '\n#' + fs.readFileSync(futureMdPath).toString() + '\n'
+    pastContent += '\n#' + fs.readFileSync(pastMdPath).toString() + '\n'
   }
 })
 
