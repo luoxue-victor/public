@@ -23,7 +23,7 @@ keys.forEach(key => {
 
 content += 
 
-`\n 全栈技匠的公众号所有文章都被分类，更方便查找文章 \n`
+`\n全栈技匠的公众号所有文章都被分类，更方便查找文章 \n`
 
 content += futureContent + pastContent
 
