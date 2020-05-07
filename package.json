@@ -6,7 +6,9 @@
   "scripts": {
     "cz": "git add . && git commit -m '修改了一些内容' && git push",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build-tag": "node script/create-file-by-tag.js"
+    "build-tag": "node script/create-file-by-tag.js",
+    "create-readme": "node script/create-readme.js",
+    "build": "npm run build-tag && npm run create-readme"
   },
   "repository": {
     "type": "git",
