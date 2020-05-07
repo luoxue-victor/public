@@ -8,7 +8,7 @@ const pastPath = path.join(articlePath, 'past')
 
 const keys = Object.keys(tag)
 
-let content = '# 全栈技匠 \n\n'
+let content = '# 全栈技匠 \n\n\n\n'
 let futureContent = '\n> ## 计划发布的文章\n'
 let pastContent = '\n\n> ## 已经发布的文章\n'
 
