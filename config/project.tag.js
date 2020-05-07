@@ -20,6 +20,9 @@ module.exports = {
   "面试": {
     leval: 1
   },
+  Typescript: {
+    leval: 1
+  },
   docker: {
     leval: 1
   },
