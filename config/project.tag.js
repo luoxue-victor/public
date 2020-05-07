@@ -1,41 +1,44 @@
 module.exports = {
   "工程化": {
-    leval: 1
+    level: 1
   },
   "Nginx": {
-    leval: 1
+    level: 1
   },
   "管理": {
-    leval: 1
+    level: 1
   },
   "跨端": {
-    leval: 1
+    level: 1
   },
   "小程序": {
-    leval: 1
+    level: 1
   },
   "机器学习": {
-    leval: 1
+    level: 1
+  },
+  "新技术": {
+    level: 1
   },
   "面试": {
-    leval: 1
+    level: 1
   },
   Typescript: {
-    leval: 1
+    level: 1
   },
   docker: {
-    leval: 1
+    level: 1
   },
   Node: {
-    leval: 1
+    level: 1
   },
   React: {
-    leval: 1
+    level: 1
   },
   Serverless: {
-    leval: 1
+    level: 1
   },
   Vue: {
-    leval: 1
+    level: 1
   },
 }

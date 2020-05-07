@@ -16,6 +16,10 @@
 
 ### 机器学习
 
+### 新技术
+
+- [esbuild](https://github.com/evanw/esbuild)
+
 ### 面试
 
 ### Typescript
@@ -48,6 +52,8 @@
 ### 小程序
 
 ### 机器学习
+
+### 新技术
 
 ### 面试
 
