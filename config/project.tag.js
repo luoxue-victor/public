@@ -17,6 +17,9 @@ module.exports = {
   "机器学习": {
     leval: 1
   },
+  "面试": {
+    leval: 1
+  },
   docker: {
     leval: 1
   },
